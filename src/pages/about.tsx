@@ -10,14 +10,12 @@ function TermsPage() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Headless Dropshipping Starter
+          World Wildlife Fund
         </a>{" "}
-        by Jamie Barton.
+        Merch Store
       </p>
       <p>
-        Build your own Headless eCommerce storefront with Next.js and Snipcart,
-        and deliver swag powered by Printful. End to end commerce, styled using
-        TailwindCSS and deployed on Vercel.
+        Build your own eCommerce with AI
       </p>
     </div>
   );
